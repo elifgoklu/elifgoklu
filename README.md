@@ -1,6 +1,6 @@
 # Hi, I'm Data Detective Elif! 🕵️‍♀️
 ## ![About Me Icon](https://img.icons8.com/color/24/about.png) About Me:
-I'm passionate about uncovering insights from data ans turning them into actionable strategies ⭐✨
+I'm passionate about uncovering insights from data and turning them into actionable strategies ⭐✨
 - 📊 *Interests:* 
   - ![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
   - ![Power BI](https://img.shields.io/badge/Power%20BI-Enthusiast-yellow)
